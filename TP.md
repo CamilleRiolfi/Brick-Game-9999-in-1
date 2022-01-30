@@ -8,4 +8,4 @@
 ## Difficultés rencontrées
 
 Problème pour un test unitaire, n'a jamais fonctionné. 
-
+Problème Docker sur Windows.
